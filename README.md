@@ -1,4 +1,7 @@
 # Nuntius
+
+[![CI](https://github.com/artemius-warp-dev/nuntius/actions/workflows/ci.yml/badge.svg)](https://github.com/artemius-warp-dev/nuntius/actions/workflows/ci.yml)
+
 ## Simple Erlang chat with websockets and erlang client
 
 ## Instructions to start app
